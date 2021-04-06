@@ -4,7 +4,7 @@ All Redon Tech's projects are stored here with there basic info.
 ## Roblox
 
 [Plugins](/plugins)
-* [ACS Installer](/plugins/ACS%20Installer)(To Be Added)
+* [ACS Installer](/plugins/ACS%20Installer)
 * [Weather Systems](/plugins/weather)(To Be Added)
 * [Auto Namer](/plugins/autonamer)(To Be Added)
 
