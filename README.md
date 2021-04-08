@@ -5,7 +5,11 @@ All Redon Tech's projects are stored here with there basic info.
 
 [Plugins](/plugins)
 * [ACS Installer](/plugins/ACS%20Installer)
+<<<<<<< Updated upstream
 * [Weather Systems](/plugins/weather)(To Be Added)
+=======
+* [Weather Systems](/plugins/Weather%20Systems)
+>>>>>>> Stashed changes
 * [Auto Namer](/plugins/autonamer)(To Be Added)
 
 [Models](/models)
