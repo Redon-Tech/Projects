@@ -9,4 +9,5 @@ All Redon Tech's projects are stored here with there basic info.
 * [Auto Namer](/plugins/autonamer)(To Be Added)
 
 [Models](/models)
-* [Redon Tech Code Controller V2](/models/codecontroller)(To Be Added)
+* [Redon Tech Code Controller V2](/models/code%20controller)(To Be Added)
+* [Redon Tech AOP/PT](/models/aop)(To Be Added)
