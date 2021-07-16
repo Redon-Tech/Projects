@@ -10,5 +10,6 @@ All Redon Tech's projects are stored here with there basic info.
 * [Siren Tool Importer](/plugins/sirentoolimporter)(To Be Added)
 
 [Models](/models)
+* [Redon Tech Fire System V2.0](https://github.com/Redon-Tech/Redon-Tech-Fire-System)
 * [Redon Tech Code Controller V2](/models/code%20controller)(To Be Added)
 * [Redon Tech AOP/PT](/models/aop)(To Be Added)
