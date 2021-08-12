@@ -14,5 +14,5 @@ Models
 * [Redon Tech Code Controller V2](/models/code%20controller)(To Be Added)
 * [Redon Tech AOP/PT](/models/aop)(To Be Added)
 
-# Other
+Other
 * [Redon Tech Product Purchasing Hub](https://github.com/Redon-Tech/Roblox-Purchasing-Hub/tree/development)
