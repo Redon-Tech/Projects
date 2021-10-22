@@ -15,4 +15,4 @@ Models
 * [Redon Tech AOP/PT](/models/aop)(To Be Added)
 
 Other
-* [Redon Tech Product Purchasing Hub](https://github.com/Redon-Tech/Roblox-Purchasing-Hub/tree/development)
+* [Redon Tech Product Purchasing Hub](https://github.com/Redon-Tech/Roblox-Purchasing-Hub/)
